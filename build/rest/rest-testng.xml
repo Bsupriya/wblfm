@@ -1,0 +1,7 @@
+<suite name="RestAutomation" verbose="1">
+    <suite-files>
+        <suite-file path="childSuite1.xml"/>
+        <suite-file path="childSuite2.xml"/>
+    </suite-files>
+
+</suite>
